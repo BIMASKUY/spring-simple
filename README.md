@@ -44,7 +44,7 @@ DB_PASSWORD=YOUR_DB_PASSWORD
    cd simple-user
    ```
 
-2. **Configure MySQL database**
+2. **Configure PostgreSQL database**
     - Create database: `simple_user_db`
     - Update credentials in `application-dev.properties`
 
@@ -54,5 +54,6 @@ DB_PASSWORD=YOUR_DB_PASSWORD
    ```
 
 ## License
+
 
 MIT
